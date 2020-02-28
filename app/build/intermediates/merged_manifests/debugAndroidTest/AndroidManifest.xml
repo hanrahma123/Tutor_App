@@ -3,7 +3,7 @@
     package="com.ark.my_app_tutor.test" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="22"
         android:targetSdkVersion="29" />
 
     <instrumentation
